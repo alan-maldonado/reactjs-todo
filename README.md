@@ -1,16 +1,24 @@
-# React Js Skeleton
-This skeleton is a little old, you should use some with webpack, but if you want to proceed.
-
+# React Jsx Simple TODO List
 Fist, clone or download this repository.
 
 Install dependencies
-```npm install```
+```
+npm install
+```
 
 Compile react javascript into vanilla js into public/js folder
-```npm start```
+```
+npm start
+```
 
 Change directory to public folder
-```cd public```
+```
+cd public
+```
 
 Open the html
-```open index.html```
+```
+open index.html
+```
+
+![TODO list](jsx-todo.png "TODO list")
